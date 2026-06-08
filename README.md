@@ -31,5 +31,8 @@ Operating System: Windows 11
 ## Testing Type
 Manual Testing  
 
+## Summary
+This project demonstrates manual testing skills including test case design, execution, and defect reporting for a demo e-commerce web application.
+
 ## Tester
 Lumanti Kauri
