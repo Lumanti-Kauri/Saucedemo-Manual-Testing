@@ -9,11 +9,9 @@ https://www.saucedemo.com/
 ## Scope of Testing
 Functional testing was performed on the main features of the application such as login, products, cart, checkout, and order flow.
 
-## Test Case Document
-SuceDemo_Manual Test - Test Case.pdf
-
-## Bug Report Document
-SuceDemo_Manual Test - Bug Report.pdf
+## Documents
+- SuceDemo_Manual Test - Test Case.pdf
+- SuceDemo_Manual Test - Bug Report.pdf
 
 ## Areas Covered
 - Login functionality  
